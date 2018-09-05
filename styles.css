@@ -3,6 +3,7 @@
   background: url("achtergrond.jpg");
   background-repeat: no-repeat;
   background-size: auto;
+  background-width: 100%;
 }
 
 .title-h1 {
