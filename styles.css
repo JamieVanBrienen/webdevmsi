@@ -1,6 +1,6 @@
 .title-bg {
   /*padding: 200x;*/
-  /*background-size: cover; /* or contain depending on what you want */*/
+  background-size: cover; /* or contain depending on what you want */
   background: url("achtergrond.jpg");
   background-repeat: no-repeat;
   width: 100%;
