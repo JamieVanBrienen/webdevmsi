@@ -3,7 +3,7 @@
   background: url("achtergrond.jpg");
     background-repeat: no-repeat;
     background-color: #f4e4e5;
-    background-size: auto;
+    background-size: cover;
   }
 
 .title-h1 {
