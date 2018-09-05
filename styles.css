@@ -1,16 +1,8 @@
-body
-{
- padding:0;
- margin:0;
- background-color: #f4e4e5;
-}  
-
 .title-bg {
   padding: 200x;
   background: url("achtergrond.jpg");
     background-repeat: no-repeat;
     background-size: auto;
- vertical-align: top;
   }
 
 .title-h1 {
