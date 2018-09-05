@@ -1,8 +1,8 @@
 .title-bg {
   padding: 220x;
   background: url("achtergrond.jpg");
-  background-repeat: no-repeat;
-  background-size: auto;
+    background-repeat: no-repeat;
+    background-size: contain, cover;
   }
 
 .title-h1 {
