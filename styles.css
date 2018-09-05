@@ -2,8 +2,8 @@
   padding: 200px;
   background: url("achtergrond.jpg");
   background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background-position: right;
+  background-size: contain;
 }
 
 .title-h1 {
