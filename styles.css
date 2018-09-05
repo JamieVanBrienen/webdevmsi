@@ -9,6 +9,7 @@ body
   background: url("achtergrond.jpg");
     background-repeat: no-repeat;
     background-size: auto;
+ vertical-align: top;
   }
 
 .title-h1 {
