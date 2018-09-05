@@ -2,7 +2,7 @@
   padding: 200x;
   background: url("achtergrond.jpg");
   background-repeat: no-repeat;
-  background-size: auto;
+  background-size: cover;
   }
 
 .title-h1 {
