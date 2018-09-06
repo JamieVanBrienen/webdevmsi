@@ -10,13 +10,13 @@ html,body
 .title-bg {
   padding: 200px;
   background: url("achtergrond.jpg");
-  background-repeat: repeat;
+  background-repeat: no-repeat;
   background-size: auto;
   }
 
 .title-h1 {
   color: MediumVioletRed ;
-  font-family: 'Courier', cursive;
+  font-family: 'lobster', cursive;
   font-size: 140px;
 }
 
