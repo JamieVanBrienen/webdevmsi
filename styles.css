@@ -9,6 +9,7 @@ html,body
 
 .title-bg {
   padding: 200px;
+  background-color: #f4e4e5;
   background: url("achtergrond.jpg");
   background-repeat: no-repeat;
   background-size: auto;
