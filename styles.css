@@ -9,7 +9,7 @@ html,body
 }
 
 .title-bg {
-  padding: 200px;
+  padding: 150px;
   background-color: #f4e4e5;
   background: url("achtergrond.jpg");
   background-repeat: no-repeat;
@@ -19,7 +19,7 @@ html,body
 .title-h1 {
   color: MediumVioletRed ;
   font-family: 'lobster', cursive;
-  font-size: 140px;
+  font-size: 100px;
 }
 
 .about-bg {
