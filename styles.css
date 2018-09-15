@@ -22,6 +22,12 @@ html,body
   font-size: 100px;
 }
 
+.title-about {
+  color: MediumVioletRed ;
+  font-family: 'lobster', cursive;
+  font-size: 50px;
+}
+
 .about-bg {
   padding: 100px;
   background-color: #f4e4e5;
