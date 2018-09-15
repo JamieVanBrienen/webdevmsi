@@ -36,6 +36,7 @@ html,body
 }
 
 .my-video {
+  padding: 20px;
   background-color: #f4e4e5;
   display: flex;
   align-items: center;
